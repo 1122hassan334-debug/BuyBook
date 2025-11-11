@@ -1,0 +1,12 @@
+BuyBook/
+├── pages/
+│   ├── _app.js
+│   └── index.js
+├── components/
+│   └── Map.js
+├── styles/
+│   └── globals.css
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── .env.local   ← (you’ll create this yourself)
